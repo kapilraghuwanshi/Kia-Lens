@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>773424767205-r17sjfagr8i1o6s1kd0c5gbihdua9jrd.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.773424767205-r17sjfagr8i1o6s1kd0c5gbihdua9jrd</string>
+	<key>API_KEY</key>
+	<string>AIzaSyB56k-1fin-VvRyGpgc7dCCDMbRtl0RFVQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>773424767205</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.kialabs.kialens</string>
+	<key>PROJECT_ID</key>
+	<string>kia-lens</string>
+	<key>STORAGE_BUCKET</key>
+	<string>kia-lens.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:773424767205:ios:0af02b977fe1c936c5f40c</string>
+</dict>
+</plist>

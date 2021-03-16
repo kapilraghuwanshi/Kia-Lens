@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "773424767205",
+    "project_id": "kia-lens",
+    "storage_bucket": "kia-lens.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:773424767205:android:a5d3a3bafa63af6ec5f40c",
+        "android_client_info": {
+          "package_name": "com.kialabs.kialens"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "773424767205-mhi5k4qd617ic6k5aj5tvjllqgifcf8g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsx7sjTrEVMPSjH0QgolE_15CoDu0kBt8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "773424767205-mhi5k4qd617ic6k5aj5tvjllqgifcf8g.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "773424767205-r17sjfagr8i1o6s1kd0c5gbihdua9jrd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.kialabs.kialens"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
