@@ -1,0 +1,7 @@
+{
+  "name": "kia-lens",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
